@@ -1,2 +1,1 @@
-# deytalytics
-Code owned by Deytalytics Ltd.
+Personal GitHub project space
